@@ -1,0 +1,21 @@
+{
+  "name": "aqa_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelinasumakova/aqa_playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelinasumakova/aqa_playwright/issues"
+  },
+  "homepage": "https://github.com/angelinasumakova/aqa_playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
