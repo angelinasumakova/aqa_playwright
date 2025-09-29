@@ -2,7 +2,9 @@
   "name": "aqa_playwright",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/angelinasumakova/aqa_playwright.git"
